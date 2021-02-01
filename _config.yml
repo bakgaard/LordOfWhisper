@@ -103,7 +103,7 @@ paginate_path: /page:num/
 remote_theme: jekyll/minima
 
 titles_from_headings:
-  enabled:     true
+  enabled:     false
   strip_title: true
   collections: true
 

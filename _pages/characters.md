@@ -6,8 +6,4 @@ permalink: /character/
 
 Here we will link to characters.
 
-[test1](Koltu-Pebbleturner)
-
-[test2](2020-01-01-Koltu-Pebbleturner)
-
-[test3](2020-01-01-Koltu-Pebbleturner)
+[Koltu Pebbleturner](https://bakgaard.github.io/LordOfWhisper/character/2020/01/01/Koltu-Pebbleturner.html)

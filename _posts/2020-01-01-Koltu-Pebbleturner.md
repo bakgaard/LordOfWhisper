@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: Character description of Koltu Pebbleturner
 categories: [character]
-title: An Example Markdown Post
+title: Koltu Pebbleturner
 ---
 # Koltu Pebbleturner
 
